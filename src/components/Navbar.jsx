@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from "react";
 import Logo from "../assets/Logo.png";
-import BgImage from "../assets/BgImage.avif";
+import BgImage from "../assets/Bgimage.avif";
 import cctvproblem from "../assets/cctvproblem.png";
 import Slider from "react-slick";
 import "slick-carousel/slick/slick.css";
