@@ -255,7 +255,7 @@ export default function Navbar() {
             <li><strong>Cost-Effective & Accessible:</strong> Built on a scalable hardware framework (ESP32 and Raspberry Pi), the solution is affordable and suitable for neonatal units, ICU wards, elderly care, and remote home monitoring.
             </li></ul></div></div>
     </div> */}
-    <div id="whyus" className="bg-gradient-to-r from-green-950 via-green-900 to-black py-44 px-6 md:px-16 lg:px-24 text-yellow-100">
+    <div id="whyus" className="bg-linear-to-r from-green-950 via-green-900 to-black py-44 px-6 md:px-16 lg:px-24 text-yellow-100">
       <div className="grid grid-cols-1 md:grid-cols-2 gap-12 items-center">
 
         {/* LEFT SIDE */}
@@ -341,7 +341,7 @@ export default function Navbar() {
         </div>
       ))}
     </Slider>
-    <div id="contact" className="bg-gradient-to-r from-green-950 via-green-900 to-black py-14 px-6 md:px-16 lg:px-24 text-yellow-100">
+    <div id="contact" className="bg-linear-to-r from-green-950 via-green-900 to-black py-14 px-6 md:px-16 lg:px-24 text-yellow-100">
 
       <h1 className="text-4xl md:text-5xl font-bold font-serif mb-12 text-center">
         Subscribe for More Information
