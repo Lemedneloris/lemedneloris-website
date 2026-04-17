@@ -98,7 +98,7 @@ export default function Navbar() {
     },
     {
       name: "Hemanth K",
-      designation: "CTO (Front End) ",
+      designation: "CTO",
       image: Hemanth,
     },
     {
@@ -108,7 +108,7 @@ export default function Navbar() {
     },
     {
       name: "Swetha Suresh Kumar",
-      designation: "COO",
+      designation: "CMO",
       image: Swetha,
     },
   ];
@@ -141,7 +141,7 @@ export default function Navbar() {
             <div className="flex items-center gap-3">
               <img src={Logo} alt="Logo" className="h-20 w-fit" />
               <div className="text-xl font-bold text-yellow-100 font-serif">
-                LeMednoloris
+                LeMedneloris
               </div>
             </div>
             <div className="hidden md:flex gap-6">
